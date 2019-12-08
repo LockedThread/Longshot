@@ -1,0 +1,4 @@
+name: RaidWars
+version: 1.0-SNAPSHOT
+main: dev.lockedthread.longshot.RaidWars
+description: "Longshot's raid wars plugin"

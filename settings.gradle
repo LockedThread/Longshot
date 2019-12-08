@@ -1,0 +1,3 @@
+rootProject.name = 'Longshot'
+include 'RaidWars'
+
